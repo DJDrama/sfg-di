@@ -1,6 +1,6 @@
 spring:
   profiles:
-    active: dog, EN #, qa
+    active: dog, EN, qa # either qa or dev
 
 guru:
   username: YmlUserName
